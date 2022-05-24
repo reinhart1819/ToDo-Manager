@@ -33,10 +33,13 @@ main {
     flex-direction: column;
     justify-self: flex-start;
     align-items: center;
-    background-image: url(https://www.teahub.io/photos/full/198-1982646_microsoft-todo.jpg);
+    background-image: url(https://i.kym-cdn.com/photos/images/original/001/435/941/317.gif);
     height: 85vh;
     background-position: center center;
     background-size: cover;
+}
+main h2{
+    color: rgb(255, 235, 19);
 }
 
 ul#todoList {
